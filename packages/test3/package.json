@@ -12,7 +12,6 @@
   "author": "leidy",
   "license": "ISC",
   "dependencies": {
-    "test1": "^1.0.0",
-    "test2": "^1.0.0"
+    "express": "^4.17.1"
   }
 }
