@@ -7,6 +7,13 @@
     ]
   },
   "devDependencies": {
+    "@commitlint/cli": "9.0.1",
+    "@commitlint/config-conventional": "9.0.1",
+    "@commitlint/config-lerna-scopes": "9.0.1",
+    "conventional-changelog-conventionalcommits": "^4.6.0",
     "lerna": "^3.22.1"
+  },
+  "scripts": {
+    "release": "lerna version"
   }
 }
